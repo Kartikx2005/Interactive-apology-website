@@ -1,28 +1,29 @@
-import img1 from "../assets/images/img1.jpg";
-import img2 from "../assets/images/img2.jpg";
-import img3 from "../assets/images/img3.jpg";
-import img4 from "../assets/images/img4.jpg";
-import img5 from "../assets/images/img5.jpg";
+import img1 from "../assets/images/Gemini_Generated_Image_nbtqainbtqainbtq.png";
+import img2 from "../assets/images/Gemini_Generated_Image_ketunbketunbketu.png";
+import img3 from "../assets/images/Gemini_Generated_Image_djott6djott6djot.png";
+import img4 from "../assets/images/Gemini_Generated_Image_b3v45fb3v45fb3v4.png";
+import img5 from "../assets/images/Gemini_Generated_Image_d0f4l1d0f4l1d0f4.png";
 
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Hiiii Annyyyy, Just wanted to tell you somethingggg...",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Pata nahi kaise bolu... par jo bhi hai, dil se bol raha hu.",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Mujhse galti ho gayi... gusse mein maine tumhe WhatsApp pe block kar diya aur Insta pe unfollow bhi 😔",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "Par sach bolu toh... main aisa karna nahi chahta tha. Bas us moment mein samajh nahi aaya kya karu...",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "Agar ho sake toh maaf kar dena... main genuinely sorry hu. Tum important ho, isliye yeh bana raha hu ❤️",
   },
 ];
+
